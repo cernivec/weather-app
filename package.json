@@ -9,15 +9,15 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
-    "lodash": "^4.17.4",
+    "node-pre-gyp": "^0.6.39",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-google-maps": "^9.4.5",
     "react-redux": "^5.0.6",
     "react-router": "^4.2.0",
     "react-scripts": "^1.0.17",
     "react-sparklines": "^1.7.0",
     "redux": "^3.7.2",
-    "redux-promise": "^0.5.3"
+    "redux-promise": "^0.5.3",
+    "webpack": "^3.10.0"
   }
 }
